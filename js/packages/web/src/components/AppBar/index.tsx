@@ -108,7 +108,7 @@ const MetaplexMenu = () => {
 
 export const LogoLink = () => {
   return (
-    <Link to={`/`}>
+    <Link to={`https://www.solmandalas.art/`}>
       <img src={'/solmandala-logo.png'} />
     </Link>
   );
